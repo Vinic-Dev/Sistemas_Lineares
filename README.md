@@ -44,8 +44,3 @@ cd build
 cmake ..
 cmake --build .
 ```
-
-## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** C (Suporte a Standards recentes)
-* **Memória:** Manipulação direta de Array de ponteiros Genéricos (`void *`) e Alocação Dinâmica (`malloc()`/`free()`).
-* **Sistemas Operacionais:** Suporte unificado com fix específico para visualização de texto no Windows Console (`<windows.h>`).
