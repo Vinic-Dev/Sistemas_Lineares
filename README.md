@@ -1,6 +1,7 @@
 # 🧮 Sistema Linear Dinâmico em C
 
-Este repositório contém uma implementação em linguagem C de uma estrutura de dados baseada em **Listas Encadeadas** projetada para armazenar, analisar e manipular **Sistemas Lineares** e **Equações Algébricas** de forma dinâmica.
+Este repositório contém uma implementação em linguagem C de uma estrutura de dados baseada em **Listas Dinâmicas Simplesmente Encadeadas** projetada para armazenar, analisar e manipular **Sistemas Lineares** e **Equações Algébricas** de forma dinâmica e resolvê-los usando o método de Gauss-Jordan.
+
 
 ## 🚀 Funcionalidades Principais
 * **Análise de Termos (Parsing):** Leitura iterativa de termos algébricos no formato `ax + by`.
